@@ -12,3 +12,6 @@ How to connect the server
  2. python3 app.py
  3. Install dependencies if some are missing.
  4. access the site via http://localhost:8000
+
+
+Then run the packet capture on the server side network to capture the traffic and then upload the confidential image and then analyze it.
